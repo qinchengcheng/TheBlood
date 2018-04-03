@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Minke.TheBlood.EFData\Minke.TheBlood.EFData.csproj" />
+    <ProjectReference Include="..\Minke.TheBlood.IDal\Minke.TheBlood.IDal.csproj" />
+    <ProjectReference Include="..\Models\Minke.TheBlood.Models.csproj" />
+    <ProjectReference Include="F:\TheBlood\Minke.Blood\PL_CoreFrame\PL_CoreFrame.csproj" />
+  </ItemGroup>
+
+</Project>
